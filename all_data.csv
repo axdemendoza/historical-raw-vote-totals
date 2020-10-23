@@ -1,0 +1,89 @@
+,State,Candidate,Votes,Year,Party
+4,Arizona,Al Gore,685341.0,2000,Democratic
+5,Arizona,George W. Bush,781652.0,2000,Republican
+18,Florida,Al Gore,2912253.0,2000,Democratic
+19,Florida,George W. Bush,2912790.0,2000,Republican
+20,Georgia,Al Gore,1116230.0,2000,Democratic
+21,Georgia,George W. Bush,1419720.0,2000,Republican
+44,Michigan,Al Gore,2170418.0,2000,Democratic
+45,Michigan,George W. Bush,1953139.0,2000,Republican
+66,North Carolina,Al Gore,1257692.0,2000,Democratic
+67,North Carolina,George W. Bush,1631163.0,2000,Republican
+70,Ohio,Al Gore,2186190.0,2000,Democratic
+71,Ohio,George W. Bush,2351209.0,2000,Republican
+76,Pennsylvania,Al Gore,2485967.0,2000,Democratic
+77,Pennsylvania,George W. Bush,2281127.0,2000,Republican
+86,Texas,Al Gore,2433746.0,2000,Democratic
+87,Texas,George W. Bush,3799639.0,2000,Republican
+98,Wisconsin,Al Gore,1242987.0,2000,Democratic
+99,Wisconsin,George W. Bush,1237279.0,2000,Republican
+4,Arizona,George W. Bush,1104294.0,2004,Republican
+5,Arizona,John Kerry,893524.0,2004,Democratic
+18,Florida,George W. Bush,3964522.0,2004,Republican
+19,Florida,John Kerry,3583544.0,2004,Democratic
+20,Georgia,George W. Bush,1914254.0,2004,Republican
+21,Georgia,John Kerry,1366149.0,2004,Democratic
+44,Michigan,George W. Bush,2313746.0,2004,Republican
+45,Michigan,John Kerry,2479183.0,2004,Democratic
+66,North Carolina,George W. Bush,1961166.0,2004,Republican
+67,North Carolina,John Kerry,1525849.0,2004,Democratic
+70,Ohio,George W. Bush,2859768.0,2004,Republican
+71,Ohio,John Kerry,2741167.0,2004,Democratic
+76,Pennsylvania,George W. Bush,2793847.0,2004,Republican
+77,Pennsylvania,John Kerry,2938095.0,2004,Democratic
+86,Texas,George W. Bush,4526917.0,2004,Republican
+87,Texas,John Kerry,2832704.0,2004,Democratic
+98,Wisconsin,George W. Bush,1478120.0,2004,Republican
+99,Wisconsin,John Kerry,1489504.0,2004,Democratic
+4,Arizona,Barack Obama,1034707.0,2008,Democratic
+5,Arizona,John McCain,1230111.0,2008,Republican
+18,Florida,Barack Obama,4282074.0,2008,Democratic
+19,Florida,John McCain,4045624.0,2008,Republican
+20,Georgia,Barack Obama,1844123.0,2008,Democratic
+21,Georgia,John McCain,2048759.0,2008,Republican
+44,Michigan,Barack Obama,2872579.0,2008,Democratic
+45,Michigan,John McCain,2048639.0,2008,Republican
+66,North Carolina,Barack Obama,2142651.0,2008,Democratic
+67,North Carolina,John McCain,2128474.0,2008,Republican
+70,Ohio,Barack Obama,2940044.0,2008,Democratic
+71,Ohio,John McCain,2677820.0,2008,Republican
+76,Pennsylvania,Barack Obama,3276363.0,2008,Democratic
+77,Pennsylvania,John McCain,2655885.0,2008,Republican
+86,Texas,Barack Obama,3528633.0,2008,Democratic
+87,Texas,John McCain,4479328.0,2008,Republican
+98,Wisconsin,Barack Obama,1677211.0,2008,Democratic
+99,Wisconsin,John McCain,1262393.0,2008,Republican
+4,Arizona,Barack Obama,1025232.0,2012,Democratic
+5,Arizona,Mitt Romney,1233654.0,2012,Republican
+18,Florida,Barack Obama,4237756.0,2012,Democratic
+19,Florida,Mitt Romney,4163447.0,2012,Republican
+20,Georgia,Barack Obama,1773827.0,2012,Democratic
+21,Georgia,Mitt Romney,2078688.0,2012,Republican
+44,Michigan,Barack Obama,2564569.0,2012,Democratic
+45,Michigan,Mitt Romney,2115256.0,2012,Republican
+66,North Carolina,Barack Obama,2178391.0,2012,Democratic
+67,North Carolina,Mitt Romney,2270395.0,2012,Republican
+70,Ohio,Barack Obama,2827709.0,2012,Democratic
+71,Ohio,Mitt Romney,2661437.0,2012,Republican
+76,Pennsylvania,Barack Obama,2990274.0,2012,Democratic
+77,Pennsylvania,Mitt Romney,2680434.0,2012,Republican
+86,Texas,Barack Obama,3308124.0,2012,Democratic
+87,Texas,Mitt Romney,4569843.0,2012,Republican
+98,Wisconsin,Barack Obama,1620985.0,2012,Democratic
+99,Wisconsin,Mitt Romney,1407966.0,2012,Republican
+4,Arizona,Donald Trump,1252401.0,2016,Republican
+5,Arizona,Hillary Clinton,1161167.0,2016,Democratic
+18,Florida,Donald Trump,4617886.0,2016,Republican
+19,Florida,Hillary Clinton,4504975.0,2016,Democratic
+20,Georgia,Donald Trump,2089104.0,2016,Republican
+21,Georgia,Hillary Clinton,1877963.0,2016,Democratic
+48,Michigan,Donald Trump,2279543.0,2016,Republican
+49,Michigan,Hillary Clinton,2268839.0,2016,Democratic
+58,North Carolina,Donald Trump,2362631.0,2016,Republican
+59,North Carolina,Hillary Clinton,2189316.0,2016,Democratic
+80,Ohio,Donald Trump,2841005.0,2016,Republican
+81,Ohio,Hillary Clinton,2394164.0,2016,Democratic
+86,Pennsylvania,Donald Trump,2970733.0,2016,Republican
+87,Pennsylvania,Hillary Clinton,2926441.0,2016,Democratic
+108,Wisconsin,Donald Trump,1405284.0,2016,Republican
+109,Wisconsin,Hillary Clinton,1382536.0,2016,Democratic
