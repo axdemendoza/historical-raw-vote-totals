@@ -12,6 +12,7 @@ requests = "*"
 dash = "*"
 gunicorn = "*"
 plotly = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.8"
