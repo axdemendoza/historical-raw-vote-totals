@@ -201,6 +201,8 @@ fig.add_trace(go.Scatter(x=tx_rep['Year'], y=tx_rep['Votes'],
 
 fig.update_xaxes(type='category')
 
+fig.update_layout(height=800)
+
 fig.update_traces(
     hovertemplate=
     'Year: %{x}<br>'+
